@@ -1,0 +1,49 @@
+loading dictionary...
+
+=========
+phrase: işkembe at
+sentence: adam sürekli uyduruyor hikayeler anlatıyor hepsini de işkembe at ve insanlar ona gül. 
+
+
+non-exist: işkembe
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+non-exist: sürekli
+non-exist: uyduruyor
+non-exist: anlatıyor
+non-exist: gül
+dim: 1 1
+
+score: 0.440551
+
+
+=========
+phrase: işkembe at
+sentence: kasap kes kuzu ve dana temizledi işkembe at et yemek çorba müşteri sabahtan kalma kes et servis tuz temiz.
+
+
+non-exist: işkembe
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+sentence is not long
+non-exist: çorba
+non-exist: müşteri
+dim: 2 2
+
+score: 0.770702
+
