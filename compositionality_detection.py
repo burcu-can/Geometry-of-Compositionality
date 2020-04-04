@@ -6,9 +6,12 @@ from nltk import word_tokenize
 import string
 import pickle
 
-dict_path = "vector.pickle"
+dict_path = "polyglot-en.pkl"
 with open(dict_path, "rb") as handle:
     vecDict, dim = pickle.load(handle)
+    dict = {}
+    for i in range(0,len(vecDict)):
+        dict[vecDict[i]] = dim[i]
 print "loading dictionary..."
 
 def loadVecAsDict(word_vec_fn, dict_path):
@@ -79,12 +82,12 @@ def getPhraseEmbed(wl, dim):
     wl: a list of component words
     dim: word dimension
     """
-    senEmbed = np.zeros(dim)
+    senEmbed = np.zeros(len(dim[0]))
     for word in wl:
         if (word not in vecDict):
             print "non-exist:", word
             continue
-        wordEmbed = np.array(vecDict[word])
+        wordEmbed = np.array(dict[word])
         senEmbed = senEmbed + wordEmbed
     return senEmbed
 
@@ -94,7 +97,7 @@ def getCxtSubspace(wl, dim, var_threshold=0.45):
         if (word not in vecDict):
             print "non-exist:", word
             continue
-        wordEmbed = vecDict[word]
+        wordEmbed = dict[word]
         emb.append(wordEmbed)
     emb = np.array(emb)
     
@@ -155,7 +158,7 @@ if __name__=="__main__":
 
     """
     #save dictionary
-    loadVecAsDict(word_vec_fn="../vectors_test.txt", dict_path="vector.pickle")
+    loadVecAsDict(word_vec_fn="../vectors_test.txt", dict_path="english.pickle")
     """
     # below is an example about how to get phrasal compositionality score in a sentence
     # line format: phrase \t sentence
