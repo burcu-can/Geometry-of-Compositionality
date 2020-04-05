@@ -1,4 +1,6 @@
-# call as compositionality language data-file
+# -*- coding: utf-8 -*-
+# call as: python compositionality.py language data-file context-window (defaults to 12)
+# language is 2-letter code: en, tr,/ zh etc.
 import os
 import sys
 import math
@@ -40,7 +42,7 @@ def filterContext(sen):
     given a sentence (no punctuation), filter the functional words
     return a string consisting of content words
     """
-    fwList = ['e','.g.','etc','the','a','an','which','is','are','be','will','and','it','they',"'s","one's",'before','so',',',';','.','something','anything','that','cannot']
+    fwList = ['e','.g.','etc','the','a','an','which','is','are','be','will','and','it','they',"'s","one's",'before','so',',',';','.','something','anything','that','cannot']  # this is only for en, but that's ok; it contains punctuation so we apply it to all languages
     sen = " "+sen+" "
     for fw in fwList:
         sen = sen.replace(" "+fw+" "," ")
@@ -171,7 +173,12 @@ if __name__=="__main__":
     # below is an example about how to get phrasal compositionality score in a sentence
     # line format: phrase \t sentence
     # compositionality score is [0, 1]
-    cxt_window = 12
-    for line in open(sys.argv[2]):
+    if len(sys.argv) < 4:
+        cxt_window = 12
+    else:
+        cxt_window = int(sys.argv[3])
+    print "\nContext window = %d\n" % (cxt_window)
+    for data in open(sys.argv[2]):
+        line=data.decode('utf-8')
         compo_score = scoreCompositionality(line, cxt_window)
         print "\nscore: %f\n" % (compo_score)
