@@ -1,0 +1,508 @@
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+loading dictionary...
+
+=========
+phrase: baştan çıkardı
+sentence: Anatomi dersi için sınıfa model ile geldi. Basit organları anlattı sonra beyni baştan çıkardı ve bölgelerinin isimlerini söylemeye başladı. Öğrencilerin hiç biri bu yabancı kelimeleri bilmiyor.
+
+
+dim: 3 3
+
+score: 0.540799
+
+
+=========
+phrase: baştan çıkardı
+sentence: Bizim patron yine sigara başlamış. Odasında bile içmek bazen. Tabii milleti de baştan çıkardı, yağ yapmaya peşinden sigara mola çıkıyorlar. Şu yeni eleman bile başladı. Allah bunlara akıl fikir versin kanser olacaklar.
+
+
+dim: 2 2
+
+score: 0.445981
+
+
+=========
+phrase: beli bük
+sentence: Fıtık sıkıntısı için spor önerdiler. O da yoga derslerine başlamaya karar verdi. Fakat hareketleri yapmakta zorlanıyordu. Hoca karın bölgesine odak söyledi. yapmak için beli bük ama doğru duruşu bulamadı ve kendini sakat. Bunun üstüne ağrısı daha da kötüleşti.
+
+
+dim: 3 3
+
+score: 0.244657
+
+
+=========
+phrase: beli bük
+sentence: Son günlerdeki yükselen dolar kuru, artan vergiler ve az maaş vatandaşın iyice beli bük. Et yemeyi zaten unutmak halk artık tavuk ve yumurta bile alamadı, fatura ödeyemiyordu. Açlık sınırının altındaki ailelerin sayısı iyice arttı.
+
+
+dim: 2 2
+
+score: 0.275083
+
+
+=========
+phrase: burnunu soktu
+sentence: Tavuk kokusunu alan aç kedi insanların dalgınlığından faydalanarak masaya çıktı. Tavuk yahni olduğu tavaya yaklaştı. Yemeği koku almaya çalışırken içine burnunu soktu ama sıcak yüzünden korkup aniden havaya sıçradı ve her şeyi birbirine kattı.
+
+
+dim: 3 3
+
+score: 0.727250
+
+
+=========
+phrase: burnunu soktu
+sentence: Kaynanam daha iyi tedavi görmek için memleket bize geldi. Bizde bir ay kalacak. Gel beri her şeye burnunu soktu. Evde yemeklerden temizliğe her şeye karıştı. Bu durum çok can sık artık.
+
+
+dim: 2 2
+
+score: 0.345147
+
+
+=========
+phrase: buzlar eri
+sentence: Bütün evde bahar temizliği tamamladıktan sonra mutfağı düzenlemeye girişti. Önce dondurucu içinde biriken buzlar eri için onu boşalt ve makineyi kapattı. Dolap koku önlemek için raf çıkarıp yıkamak ve içini güzelce sildi.
+
+
+dim: 3 3
+
+score: 0.138748
+
+
+=========
+phrase: buzlar eri
+sentence: İş sebebiyle bir yıl ayrı kaldıktan sonra birbirlerine karşı yabancı gelmek. Aralarındaki buzlar eri için akşam yemeğine çıktılar. Güzel vakit geçirdiler ve ardından bir filme gitmeye karar verdiler.
+
+
+dim: 2 2
+
+score: 0.179818
+
+
+=========
+phrase: cebinden çıkardı
+sentence: Alacaklıları peşindeydi. Onu buldukları yerde dövecek biliyordu. Bugün ödemesi mümkün değildi ama üstünde bulunanları bari korumak için parayı ceket cebinden çıkardı ve annesine verdi. Zaten dayak yiyecek ama şu üç beş kuruşu kurtarmak istedi.
+
+
+dim: 2 2
+
+score: 0.196723
+
+
+=========
+phrase: cebinden çıkardı
+sentence: Genç tüccar piyasaya gireli bir kaç yıl olmuştu ama başarısıyla hemen ünlenmişti. Hırsın de verdiği heyecanla tecrübeli bir rakibi ile iddiaya girdi. Yaşlı adam genci cebinden çıkardı. Bu yenilgi başlarda onun zararına oldu ama nihayetinde iyi bir öğrenim olmuştu.
+
+
+dim: 2 2
+
+score: 0.190472
+
+
+=========
+phrase: çomak soktu
+sentence: haftasonu çocuk ailesiyle parka gitmişti. Aşağı bakarak yürürken yerdeki karınca yuvalarını farketti. Ailesinin ona bakma bir sırada yerden aldığı bir dalı düzeltti ve karınca yuvalarına çomak soktu. Kaçan karıncaları incelemek çok eğlence. Kraliçe karınca çıkana kadar oymak devam etti.
+
+
+dim: 3 3
+
+score: 0.339428
+
+
+=========
+phrase: çomak soktu
+sentence: Vergiler bu sefer de sosyal medya fenomen vurdu. Reklam gelirlerinden alınması kararı işlerine bayağı çomak soktu. Özellikle büyük firmalarla çalışmayan, aldıkları reklamları gizlemeye çalışıyor fakat ortaya çıkmak daha da rezil oluyorlar.
+
+
+dim: 3 3
+
+score: 0.553891
+
+
+=========
+phrase: dalga geçti
+sentence: Ucuz diye sezon sonu tatile geldik ama geldiğimizden beri doğru düzgün denize girmek nasip olmadı. Ya hava kötü oluyor ya su. Bugün sabah da kötüydü, öğlen dalga geçti diye hevesle bir tur denemek ama hemen çıkmak zorunda kaldık. Bu sefer de soğuk yüzünden.
+
+
+dim: 3 3
+
+score: 0.593313
+
+
+=========
+phrase: dalga geçti
+sentence: Şu şişman oğlan çocuğu çok fena gerçekten. Tüm sınıfın düzenini bozmak. Herkes ile dalga geçti hala devam ediyor. Şimdi de sarışın kıza takmış, çirkin suratlı diye etrafında şarkı söylüyor.
+
+
+dim: 2 2
+
+score: 0.468482
+
+
+=========
+phrase: etekleri tutuş
+sentence: nevroz kutlamalarında bir kaza geçirmiş bacaklarında hala izler var ateşin üzerinde atla etekleri tutuş elbisesi alev aldı etraf yardımıyla hızlıca su dökmek ama vücudunda yanıklar vardı. hastaneye gitmesi gerekti. Bacaklarında bazı yerler iz kaldı iyileşmesi bir kaç ay sürdü.
+
+
+dim: 2 2
+
+score: 0.187255
+
+
+=========
+phrase: etekleri tutuş
+sentence: koç burcu ketumlugunu sonuna kadar sergilemiş disariya peri masali gibi bir hayat yasiyorum imaji cizerken kocasının yediği tüm halt belge sanıldığı kadar da saf olmayan kadin. kocasının etekleri tutuş sürekli açıklama yapıp duruyor ama yemezler. tam bir yalancı olduğu ortaya çıktı.
+
+
+non-exist: halt
+dim: 2 2
+
+score: 0.142026
+
+
+=========
+phrase: gaza geldi
+sentence: Sürücü kursuna gitmeden önce biraz babasından ders aldı. En basit şeylerden başladılar. debriyaj ve fren pedalı yerini öğrendikten sonra sıra gaza geldi. sol, orta, sağ diye aklında tutmaya çalıştı ama yine de karıştırmaya devam ediyordu.
+
+
+non-exist: debriyaj
+dim: 2 2
+
+score: 0.532417
+
+
+=========
+phrase: gaza geldi
+sentence: Ayrılan müdür yerine iş yerinden birini terfi etmeyi planlamak. Bizim mehmet de gaza geldi belki beni seçerler diye. Kim ne yapsın onu, bu cesaret nerden buluyor anlamıyorum.
+
+
+dim: 3 3
+
+score: 0.646376
+
+
+=========
+phrase: gözünden düştü
+sentence: Yine kitap okurken koltukta uyumak. Kızı boynun tutulacak diye ses ayağa kalkmaya çalıştı ama takıldı okuma gözlüğü de gözünden düştü. Ağız kenarında salya kuru, aptal bir halde mutfağa yöneldi. Kendine kahve yapmaya başladı.
+
+
+dim: 3 3
+
+score: 0.625125
+
+
+=========
+phrase: gözünden düştü
+sentence: Eskiden belki daha az para kazanmak ama bize saygı duymak. Artık sanatçı halkın gözünden düştü, bizi aptal olarak görüyorlar. Hoş televizyona bakınca hak veriyorum berbat diziler var.
+
+
+dim: 2 2
+
+score: 0.506043
+
+
+=========
+phrase: gözüne girdi
+sentence: Ay şu saçlarını niye uzun? Lütfen bir berber git en kısa zamanda. Öndeki gözüne girdi iyice. Yüzü de kapadı bari onları kısa. Aksi gibi bir de kafa ufak.
+
+
+non-exist: Öndeki
+dim: 2 2
+
+score: 0.577719
+
+
+=========
+phrase: gözüne girdi
+sentence: daha ilk geldiği zamanlarda tadı kötüydü yaptığı kahve ama yeni çocuk sonradan gözüne girdi sanırım. Tabii el beceri ziyade çok yakışıklı olmasının da etkisi olabilir fikir değişikliğinde.
+
+
+dim: 2 2
+
+score: 0.578186
+
+
+=========
+phrase: gözünü boya
+sentence: drag queen sahneye hazırlanırken izlemek çok ilginç. Önce saçlarını sıkıca topladı. Sonra sıra makyaj gelmişti. Yüzü krem sonra gözünü boya. Far da sürmek sonra bol bol rimel sürdü ve kırmızı dudak ile hazırdı.
+
+
+non-exist: rimel
+dim: 2 2
+
+score: 0.658557
+
+
+=========
+phrase: gözünü boya
+sentence: Aslında hiç güler yüzlü biri değil şimdi öyle neşeli olmasına bakma. Sadece müşterilerin gözünü boya için böyle davranmak. İş bitince gör gerçek yüzünü. Dün yine olay çıkardı, temizlik sırası onda değilmiş de güya.
+
+
+dim: 3 3
+
+score: 0.585158
+
+
+=========
+phrase: ipini çekti
+sentence: Saat iyice geç olmuştu. Elindeki kitabı masa üstüne koydu. Işığı kapatmak için lambanın ipini çekti. Alarm kurdu. Örtü iyice üzerine alıp yatağın içinde girdi ve uykuya daldı.
+
+
+dim: 2 2
+
+score: 0.499019
+
+
+=========
+phrase: ipini çekti
+sentence: Önemli şirket bilgilerini satan eleman sonunda belli oldu. Bunları rakibe veren kişi müdür yardımcısı. Patron hemen onun ipini çekti. Uzun yıllar boyunca beraber çalıştığı bu adamın ihaneti onu çok şok etti.
+
+
+dim: 2 2
+
+score: 0.486239
+
+
+=========
+phrase: iz bıraktı
+sentence: Yağmura fena yakalanmış. İçeri girmeden ayaklarını sildi ama yine de okulun yeni silinmiş koridor iz bıraktı. Bunu gören temizlik görevlisi söylenerek geçtiği yerleri silmeye başladı. Geç gelen öğrencileri kimse sevmiyordu.
+
+
+dim: 3 3
+
+score: 0.591623
+
+
+=========
+phrase: iz bıraktı
+sentence: Otuz yıl süren yazarlık hayatında on üç roman yazdı. Yapıtları türk edebiyatında önemli bir iz bıraktı. Büyülü gerçekçilik ve fantastik öğeleri türk edebiyatında ilk kez kullanan yazardı. Yaşadığı dönemde çok sevilmedi ama şimdilerde çok okunuyor.
+
+
+dim: 2 2
+
+score: 0.351358
+
+
+=========
+phrase: kafayı yedi
+sentence: Bu şişman çocukta da ne iştah varmış, balığı saniyede mideye indirdi. Aç hala galiba sonra kafayı yedi. Ağzı burnu da yağ içinde kalmış. Annesi babası hiç ilgisiz gibi bununla.
+
+
+dim: 2 2
+
+score: 0.726231
+
+
+=========
+phrase: kafayı yedi
+sentence: Küçük oğlan evlilik diye bizi batırdı. Altın da altın diye iyice kafayı yedi bizim gelin. Hem burma bilezik hem gerdanlık istiyor. Yani kraliçenin kızını alıyoruz sanki bu bütçeyle. Arnavut kızı alıyormuşuz.
+
+
+sentence is not long
+dim: 2 2
+
+score: 0.656999
+
+
+=========
+phrase: kapıya dayandı
+sentence: Hava almak için balkon çıkmak istedi ama kalkınca başı döndü. Denge bulmak için kapıya dayandı. Gece yemeden oruç tutmaya çalışmıştı ve bu yüzden tansiyonu düşmüştü. Akşam beklemeden tuzlu ayran içmeye karar verdi.
+
+
+dim: 3 3
+
+score: 0.519034
+
+
+=========
+phrase: kapıya dayandı
+sentence: Altı aydır son kitabını bitirmeye çalışıyordu. Daha yarısını dahi yazmadan teslim tarihi kapıya dayandı. Uzatma istemek için editör ile görüştü, ve on beş gün daha süre alabildi.
+
+
+dim: 2 2
+
+score: 0.130433
+
+
+=========
+phrase: kitabını yazmış
+sentence: Kitapçılarda yeni görmeye başladığımız bir isim. Yaş göre çok şaşırtıcı bir dille ilk kitabını yazmış yazar. başka yazar taklit normal ama ilerleyen yıllarda bu güzel kitabın üzerine daha daha neler koyacak merak ettiren bir yazardır.
+
+
+non-exist: başladığımız
+dim: 2 2
+
+score: 0.389197
+
+
+=========
+phrase: kitabını yazmış
+sentence: Takımımızın geleceğine umut ile bakmak istiyorum. Futbol bizim kan ve damarlar var. Trabzon şehri, futbolun kitabını yazmış bir kenttir. yüz yılı aşkın bir süredir bu coğrafyanın futbolla yatan kalkan, bilimsel futbolu ilk defa ülkeye öğreten kent.
+
+
+dim: 2 2
+
+score: 0.311973
+
+
+=========
+phrase: limon sık
+sentence: Boğaz manzaralı bu restoranda yemek yemeğe gelmişlerdi. Önce mercimek çorbası söyledi ve gelince üzerine limon sık. Ardından ana öğün olarak somon ve mısır ekmeği istedi. Yanına da rakı söyledi.
+
+
+dim: 2 2
+
+score: 0.718758
+
+
+=========
+phrase: limon sık
+sentence: Annem küçük kız kardeş yine peş takmış. O da hiç hayır demeden geldi bizim muhabbet limon sık. Onun yanında hiç dedikodu yap. Bunlar yüzünden hiç arkadaşım olmayacak benim galiba.
+
+
+dim: 2 2
+
+score: 0.610968
+
+
+=========
+phrase: masaya yatır
+sentence: Kötü bir koku alınca bebeğin altının değişmesi gerekiyor diye annesine seslendi. Anne bebeği alıp masaya yatır ve bezi çıkardı. Bebeği silip pudra sürmek sonra altını tekrar bağlayıp giydirdi.
+
+
+dim: 3 3
+
+score: 0.225301
+
+
+=========
+phrase: masaya yatır
+sentence: Şirketin bu cinsiyetçi politikaları marka imajına zarar verdi. Özellikle üst gelir grubundan kadın müşterileri kaybediyor. Genel müdür bunu dün toplantıda masaya yatır ve çözüm olarak reklam kampanyalarında kadınlara daha çok ağırlık verilmesine karar verdiler.
+
+
+dim: 2 2
+
+score: 0.198069
+
+
+=========
+phrase: nabız tuttu
+sentence: Akşam apar topar hastaneye gittik, benim hanım bana bir şeyler oluyor diye uyandırdı. Doktor nabız tuttu tansiyon baktı ateşine baktı. Hepsi normal. Bir şeyi yok panik atak geçirmiş diye yolladı.
+
+
+dim: 2 2
+
+score: 0.363810
+
+
+=========
+phrase: nabız tuttu
+sentence: Sabah gazetelere bir bakmak dedim ama okunacak gibi değiller. Siyaset yine halkın nabız tuttu diyorlar. Bir dayanak yok sırf gündem yapmak için yazılmış. Seçimlerde sonuçların farklı olacağını düşünüyorum.
+
+
+dim: 2 2
+
+score: 0.196616
+
+
+=========
+phrase: peşinden koştu
+sentence: Bahçe yatan şişman kedi bir ses duyunca ayağa kalktı. Gördüğü şeyin hemen peşinden koştu. Beş dakika sonra kuyruğu dik ağzında bir fare ile köşesine geri döndü.
+
+
+dim: 3 3
+
+score: 0.483676
+
+
+=========
+phrase: peşinden koştu
+sentence: Bu filmdeki ana karakter yıllar boyunca başka bir adamı seven bir kadının peşinden koştu. Kadın ise benzer şekilde aşık olduğu adamı şehir şehir takip ediyordu. Kimsenin mutlu olmadığı bir hikayeyedi kısacası.
+
+
+dim: 2 2
+
+score: 0.298747
+
+
+=========
+phrase: posta koydu
+sentence: Bizim apartmanın önünde bir adam kapıyı kurcalıyor sandım geçen sabah. Ben ne oluyor diye onun yanına giderken kapı açıldı içeri girdi. Hızlı baktım ne yapıyor diye, posta koydu ve bana selam verip çıktı. Resmi kıyafet olmayınca şaşmak ama yok yere heyecan yapmak.
+
+
+non-exist: şaşmak
+dim: 2 2
+
+score: 0.571564
+
+
+=========
+phrase: posta koydu
+sentence: Benim büyük oğlan geçen ay boşandı. Senin kız için de damada sonunda posta koydu diyorlar. Zaten sürekli kavga ediyorlar kedi köpek gibi birbirlerinin yakasında hep. Ömür boyu pişman olacaklarına ayrılsınlar daha iyi bence ikisi için de.
+
+
+dim: 2 2
+
+score: 0.344895
+
+
+=========
+phrase: sinek avlamak
+sentence: Evin korkunç halinin sorumlusu aşağıda koltukta uyuyor. dün sen yokken kedi bir sinek avlamak. Devir ne vazo kaldı ne lamba. Dolap üzerine bir hamle yaptı ama denge tut her şeyi dağıttı.
+
+
+dim: 2 2
+
+score: 0.157980
+
+
+=========
+phrase: sinek avlamak
+sentence: Gelişen ekonominin herkese faydalı olduğu doğru değil. Mesela süper marketler yüzünden bakkal sinek avlamak. Küçük işletmelerin durumu genel olarak pek parlak görünmüyor. İnsanlar zincirleri onlara tercih ediyor.
+
+
+dim: 2 2
+
+score: 0.157233
+
+
+=========
+phrase: sirke sattı
+sentence: evde yiyecek içecek hiç bir şey kalmamıştı. ben de bugün pazara gittim. Zeytinyağı, limon suyu, turşu falan satın almak. pazar elma sirke sattı bu sefer. Üzüm olan çok pahalıydı diye bıraktım ama bunun da tadı çok ekşi çıktı.
+
+
+dim: 2 2
+
+score: 0.427371
+
+
+=========
+phrase: sirke sattı
+sentence: geleceğini belirleyecek bu sınava çok çalışıp hazırlandı. Fakat sonuçlar geldikten sonra yüzü hep sirke sattı. İstediği hiçbir yeri kazanamadı. Bu başarısızlık ona çok ağır geldi. Öyle ki aylarca odasından çıkmadı.
+
+
+dim: 2 2
+
+score: 0.268654
+
+
+=========
+phrase: tüy dikti
+sentence: sokağa çıkma yasağı yüzünden canı sıkılıyordu. Kedisi de benzer bir şekilde bunalmıştı. Bari hayvanı eğlendireyim diyip hayvanı kediye oyuncak yapmaya karar verdi sopa bir metre uzunluğunda bir ip bağladı ve bağladığı ipin ucuna tüy dikti. Dikkat çekmesi için de zil taktı. Kedi bu yeni oyuncak beğendi ve yorulana kadar koşup oynadı.
+
+
+dim: 2 2
+
+score: 0.547149
+
+
+=========
+phrase: tüy dikti
+sentence: sonrada önce o bana hakaret etti diye sıvamaya devam etti. en son stüdyoda özür dilemesi yönünde fikir birliği olunca kimse kendine siyasi rant devşirme diye tüy dikti. bu kadar şımarık, aptal insanlar nasıl oluyor da televizyona çıkıyorlar, nasıl yüzleri kızarmıyor. ben utandım bunu izlerken.
+
+dim: 2 2
+
+score: 0.170183
