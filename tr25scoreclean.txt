@@ -1,0 +1,27 @@
+phrase		idiomatic	literal
+baştan çıkardı	0,445981	0,540799
+beli bük	0,275083	0,244657
+burnunu soktu	0,345147	0,72725
+buzlar eri	0,179818	0,138748
+cebinden çıkardı0,190472	0,196723
+çomak soktu	0,553891	0,339428
+dalga geçti	0,468482	0,593313
+etekleri tutuş	0,142026	0,187255
+gaza geldi	0,646376	0,532417
+gözünden düştü	0,506043	0,625125
+gözüne girdi	0,578186	0,577719
+gözünü boya	0,585158	0,658557
+ipini çekti	0,486239	0,499019
+iz bıraktı	0,351358	0,591623
+kafayı yedi	0,656999	0,726231
+kapıya dayandı	0,130433	0,519034
+kitabını yazmış	0,311973	0,389197
+limon sık	0,610968	0,718758
+masaya yatır	0,198069	0,225301
+nabız tuttu	0,196616	0,36381
+peşinden koştu	0,298747	0,483676
+posta koydu	0,344895	0,571564
+sinek avlamak	0,157233	0,15798
+sirke sattı	0,268654	0,427371
+tüy dikti	0,170183	0,547149
+Ortalama	0,3639612	0,46330816
