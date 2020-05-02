@@ -1,0 +1,27 @@
+phrase		idiomatic	literal
+bearing fruit	0,659051	0,661491
+building bridges0,698633	0,795156
+catch fire	0,507176	0,607289
+ draw blood	0,480946	0,68862
+ fell apart	0,447733	0,345139
+ get there	0,659924	0,490641
+ going south	0,545141	0,748171
+ have words	0,582628	0,543374
+ hear things	0,461927	0,319717
+ hold fire	0,367361	0,435661
+ hold water	0,657107	0,563803
+ know someone	0,785759	0,659204
+ lose it	0,597178	0,668262
+ make hay	0,475157	0,452994
+ make tracks	0,609857	0,667603
+ make water	0,645333	0,678237
+ pick holes	0,51413		0,626988
+ play games	0,407248	0,761508
+ pulling teeth	0,336031	0,455444
+ save it	0,608182	0,658896
+ saw logs	0,673431	0,587061
+ saw stars	0,660583	0,554322
+ see red	0,58616		0,6239
+ smell blood	0,483074	0,525804
+ take flight	0,584865	0,4579
+ortalama	0,5613846	0,5830874
