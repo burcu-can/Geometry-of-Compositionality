@@ -1,0 +1,4 @@
+
+javac -cp .:./Jama-1.0.3.jar TempCheckGeometryOfCompositionality.java
+
+java -cp .:./Jama-1.0.3.jar TempCheckGeometryOfCompositionality polyglot-en.vec bicontext_English_w12.txt > output.txt
