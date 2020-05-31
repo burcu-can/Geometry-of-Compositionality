@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52e6ce3d-97d3-4fbb-b6d0-52f955dec358" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YkIua7XuwykX1hs0t6s7qDnFPj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="trash" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="freq" />
+      <recent name="embed" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/trash" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SubcatDistributionExtractorAll">
+    <configuration name="CompositionalityCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="embed.CompositionalityCalculator" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/_io/GiTuCo.filt.uniq.stemB.format_S_Rcuspod.samp44p_w5_v200_mc10_i5_cbow.w2v.vec $PROJECT_DIR$/_io/GiTuCo.filt.uniq.stemB.sample $PROJECT_DIR$/_io/_arg_verb_list_50x100 $PROJECT_DIR$/_io/ 1 15 20 cuspod true true 0.45 8" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Miner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="freq.Miner" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/_io/GiTuCo.filt.uniq.stemB.sample cuspod 1" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="freq.Monitor" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="_io/GiTuCo.filt.uniq.stemB.sample.duo_10_cuspod _io/_verb_list_50 10 20 2" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseMiner" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="freq.RelativeClausePercentageExtractor" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="/media/oz/Data/_data/GiTuCo/filt/GiTuCo.filt.uniq.stemB /media/oz/Data/_data/GiTuCo/filt/_arg_verb_list_50x100" />
+      <option name="VM_PARAMETERS" value="-Xmx16000M" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubcatDistMiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trash.SubcatDistMiner" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="/media/oz/Data/_data/GiTuCo/filt/GiTuCo.filt.uniq.stemB /media/oz/Data/_data/GiTuCo/filt/_arg_verb_list_50x100" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubcatDistMiner2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="freq.SubcatDistributionExtractor" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="/media/oz/Data/_data/GiTuCo/filt/GiTuCo.filt.uniq.stemB /media/oz/Data/_data/GiTuCo/filt/_arg_verb_list_50x100" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubcatDistMiner3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="trash.SubcatDistMiner3" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="/media/oz/Data/_data/GiTuCo/filt/turkish_books.filt.stemB /media/oz/Data/_data/GiTuCo/filt/_arg_verb_list_50x100" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubcatDistributionExtractorAll" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="freq.SubcatDistributionExtractorAll" />
+      <module name="Binus" />
+      <option name="PROGRAM_PARAMETERS" value="/media/oz/Data/_data/GiTuCo/compositionality/GiTuCo.filt.uniq.stemB" />
+      <option name="VM_PARAMETERS" value="-Xmx32000M" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SubcatDistMiner2" />
+      <item itemvalue="Application.SubcatDistributionExtractorAll" />
+      <item itemvalue="Application.SubcatDistMiner3" />
+      <item itemvalue="Application.ReverseMiner" />
+      <item itemvalue="Application.SubcatDistMiner" />
+      <item itemvalue="Application.Miner" />
+      <item itemvalue="Application.Monitor" />
+      <item itemvalue="Application.CompositionalityCalculator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Monitor" />
+        <item itemvalue="Application.Miner" />
+        <item itemvalue="Application.CompositionalityCalculator" />
+        <item itemvalue="Application.SubcatDistMiner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52e6ce3d-97d3-4fbb-b6d0-52f955dec358" name="Default Changelist" comment="" />
+      <created>1583480388703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583480388703</updated>
+      <workItem from="1583480391307" duration="140000" />
+      <workItem from="1583480639717" duration="626000" />
+      <workItem from="1583612669982" duration="633000" />
+      <workItem from="1583838895119" duration="644000" />
+      <workItem from="1583875649235" duration="616000" />
+      <workItem from="1583927116371" duration="21654000" />
+      <workItem from="1584379676944" duration="40000" />
+      <workItem from="1584482641443" duration="5392000" />
+      <workItem from="1584544352412" duration="86000" />
+      <workItem from="1584546411561" duration="71804000" />
+      <workItem from="1585293495300" duration="96000" />
+      <workItem from="1585293664928" duration="107694000" />
+      <workItem from="1586428270692" duration="2474000" />
+      <workItem from="1586678603405" duration="2694000" />
+      <workItem from="1586681314584" duration="429000" />
+      <workItem from="1586682005388" duration="560000" />
+      <workItem from="1586682581255" duration="8273000" />
+      <workItem from="1586720609241" duration="778000" />
+      <workItem from="1586797925361" duration="74962000" />
+      <workItem from="1587290879621" duration="17130000" />
+      <workItem from="1587392971116" duration="80433000" />
+      <workItem from="1587654062222" duration="8723000" />
+      <workItem from="1587741883766" duration="25223000" />
+      <workItem from="1587895165061" duration="3871000" />
+      <workItem from="1587914607099" duration="25845000" />
+      <workItem from="1588108882953" duration="3532000" />
+      <workItem from="1588126794972" duration="47387000" />
+      <workItem from="1588515326255" duration="5355000" />
+      <workItem from="1588539273210" duration="3099000" />
+      <workItem from="1588561380654" duration="237000" />
+      <workItem from="1588587176373" duration="525000" />
+      <workItem from="1588587975317" duration="4558000" />
+      <workItem from="1588761383369" duration="250000" />
+      <workItem from="1588763130278" duration="9212000" />
+      <workItem from="1588792034697" duration="654000" />
+      <workItem from="1588797609111" duration="1316000" />
+      <workItem from="1588811555281" duration="32364000" />
+      <workItem from="1589025523830" duration="18097000" />
+      <workItem from="1589114243063" duration="832000" />
+      <workItem from="1589360403698" duration="28748000" />
+      <workItem from="1589461347291" duration="7245000" />
+      <workItem from="1589533724461" duration="241000" />
+      <workItem from="1589534703304" duration="12165000" />
+      <workItem from="1589733131531" duration="7330000" />
+      <workItem from="1590414172056" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1920" height="1044" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590146745627">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="331" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586307054363" />
+    <state x="0" y="0" width="1920" height="1044" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1590146745627" />
+    <state x="636" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589534722361">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="636" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1589534722361" />
+    <state x="769" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1587584083468">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="769" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1587584083468" />
+    <state x="694" y="306" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1589361484694">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="694" y="306" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1589361484694" />
+    <state x="693" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590146178819">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="693" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1590146178819" />
+    <state x="738" y="409" width="443" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589381550433">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="738" y="409" width="443" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1044@0.0.1920.1044" timestamp="1589381550433" />
+    <state x="694" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589386972214">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="694" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1589386972214" />
+    <state x="353" y="510" width="1216" height="514" key="#xdebugger.evaluate" timestamp="1589568903862">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="1032" y="177" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586032688115" />
+    <state x="353" y="510" width="1216" height="514" key="#xdebugger.evaluate/0.0.1920.1044@0.0.1920.1044" timestamp="1589568903862" />
+    <state width="590" height="468" key="DebuggerActiveHint" timestamp="1589568856808">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="456" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1586091098124" />
+    <state width="590" height="468" key="DebuggerActiveHint/0.0.1920.1044@0.0.1920.1044" timestamp="1589568856808" />
+    <state x="769" y="334" key="DetectedRootsChooserDialog" timestamp="1586684872144">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="769" y="334" key="DetectedRootsChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586684872144" />
+    <state x="100" y="100" width="1720" height="844" key="DiffContextDialog" timestamp="1586850236293">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="100" y="100" width="1720" height="844" key="DiffContextDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1586850236293" />
+    <state x="740" y="276" width="648" height="516" key="FileChooserDialogImpl" timestamp="1589737791798">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585555482946" />
+    <state x="740" y="276" width="648" height="516" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1589737791798" />
+    <state width="1874" height="203" key="GridCell.Tab.0.bottom" timestamp="1590283251454">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586332975561" />
+    <state width="1874" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1590283251454" />
+    <state width="1874" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587740342255" />
+    <state width="1874" height="203" key="GridCell.Tab.0.center" timestamp="1590283251452">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586332975560" />
+    <state width="1874" height="203" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1590283251452" />
+    <state width="1874" height="252" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587740342255" />
+    <state width="1874" height="203" key="GridCell.Tab.0.left" timestamp="1590283251451">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586332975560" />
+    <state width="1874" height="203" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1590283251451" />
+    <state width="1874" height="252" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587740342255" />
+    <state width="1874" height="203" key="GridCell.Tab.0.right" timestamp="1590283251453">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="882" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586332975561" />
+    <state width="1874" height="203" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1590283251453" />
+    <state width="1874" height="252" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587740342255" />
+    <state width="1874" height="251" key="GridCell.Tab.1.bottom" timestamp="1589575989609">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586091466831" />
+    <state width="1874" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1589575989609" />
+    <state width="1874" height="251" key="GridCell.Tab.1.center" timestamp="1589575989608">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586091466831" />
+    <state width="1874" height="251" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1589575989608" />
+    <state width="1874" height="251" key="GridCell.Tab.1.left" timestamp="1589575989608">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586091466831" />
+    <state width="1874" height="251" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1589575989608" />
+    <state width="1874" height="251" key="GridCell.Tab.1.right" timestamp="1589575989609">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586091466831" />
+    <state width="1874" height="251" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1589575989609" />
+    <state x="747" y="108" width="1032" height="848" key="SettingsEditor" timestamp="1589568199182">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584544434679" />
+    <state x="747" y="108" width="1032" height="848" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1589568199182" />
+    <state width="960" height="522" key="XDebugger.FullValuePopup" timestamp="1588970192988">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="960" height="522" key="XDebugger.FullValuePopup/0.0.1920.1044@0.0.1920.1044" timestamp="1588970192988" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1589733132075">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585293665652" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1589733132075" />
+    <state x="466" y="239" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588015652184">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="466" y="239" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1044@0.0.1920.1044" timestamp="1588015652184" />
+    <state x="336" y="122" key="new project wizard" timestamp="1589733186799">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="336" y="122" key="new project wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1589733186799" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1584089039142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584089039142" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1589537090331">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1589537090331" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/BigExperiment.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/BigExperiment.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/BigExperiment.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/CompositionalityDetector.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/CompDetSimulator.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/CompositionalityDetector.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/SubcatDistMiner.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/SubcatDistMiner.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/SubcatDistMiner.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/SubcatDistMiner.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/SubcatDistMiner.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trash/SubcatDistMiner3.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/embed/CompositionalityCalculator.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/embed/CompositionalityCalculator.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/freq/Miner.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/freq/Monitor.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mapPhraseSimilarity.get(&quot;hasta:0\tol:v&quot;)[0].size" language="JAVA" />
+        <watch expression="mapPhraseSimilarity.get(&quot;hasta:0\tol:v&quot;)[1].size" language="JAVA" />
+        <watch expression="mapPhraseSimilarity.get(&quot;hasta:0\tol:v&quot;)[2].size" language="JAVA" />
+        <watch expression="u.getArray()[0][0]" language="JAVA" />
+        <watch expression="mapPhraseRepresentative.get(&quot;gôl:1\tat:v&quot;)" language="JAVA" />
+        <watch expression="mapWordVector.get(&quot;insan&quot;)" language="JAVA" />
+        <watch expression="map1.get(&quot;hiza:5&quot;)" language="JAVA" />
+        <watch expression="mapDuo.get(&quot;hiza:5&quot;)" language="JAVA" />
+        <watch expression="(new ArrayList&lt;&gt;(setInput)).get(0)" language="JAVA" />
+        <watch expression="map.get(&quot;tanıl:v&quot;)" language="JAVA" />
+        <watch expression="mapWordVector.get(&quot;boyunca&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Binus$SubcatDistMiner.ic" NAME="SubcatDistMiner Coverage Results" MODIFIED="1588349247520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>freq.*</FILTER>
+    </SUITE>
+  </component>
+</project>
